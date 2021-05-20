@@ -1,6 +1,6 @@
 Obnovíte ji pomocí seedu.
 
-Seed je seznam slov, ze kterých se matematicky odvodí speciální číslo, které dovede obnovit všechny držené prostředky na peněžence.
+Seed je seznam slov, ze kterých se odvodí dlouhé číslo (váš hlavní privátní klíč), ktery dovede obnovit všechny držené prostředky na peněžence.
 
 Zadáním vašeho seedu do nové peněženky se všechny vaše prostředky obnoví.
 
