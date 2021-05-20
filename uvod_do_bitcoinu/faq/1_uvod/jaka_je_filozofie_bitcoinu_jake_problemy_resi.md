@@ -8,6 +8,6 @@ Udržitel hodnoty je nejdůležitější vlastnost peněz. Pokud chci šetřit a
 
 Prostředkem směny se Bitcoin už také stává. Stále se rozrůstá komunita lidí, kteří si nechají v Bitcoinu platit za své služby. Můžu tak dneska zaplatit na spoustě místech na internetu, ale i v kamenných obchodech. Je pravda, že geograficky asi ještě není obecně přijímaným platidlem, ale u nás taky nezaplatíte polskými złotými.
 Účetní jednotou se jednou Bitcoin stane, doufejme. Pokud budou splněné dva výše zmíněné body, je jen otázkou času, kdy si např. zafixujeme, že za 1 bitcoin si pořídím pozemek se zahradou, případně že 10 000 satoshi (0,0001 bitcoinu) nás bude stát taxi po městě.
-To jsou ale jen základní vlastnosti, dále by měly peníze být spravedlivé -nerozlišovat podle barvy kůže, země původu, necenzurovat - nikdo by od nich neměl mít klíč a moc je tak například vytvářet z ničeho.
+To jsou ale jen základní vlastnosti, dále by měly peníze být spravedlivé - nerozlišovat podle barvy kůže, země původu, necenzurovat - nikdo by od nich neměl mít klíč a moc je tak například vytvářet z ničeho.
 
 Pokud teď vnímáte, co Bitcoin znamená pro spoustu lidí, tak vám gratuluji, pořiďte si nějakou část bitcoinu, protože chcete, a ne proto, že na něm chcete vydělat. Vezměte odpovědnost do svých rukou.
