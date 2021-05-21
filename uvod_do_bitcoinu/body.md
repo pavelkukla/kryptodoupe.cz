@@ -10,7 +10,7 @@ Pokud máte radši videa, podívejte se na [Úvod do Bitcoinu od Bitcoinovýho k
 ### Doporučená videa
 - [Co je Bitcoin a blockchain? (19 minut)](https://www.youtube.com/watch?v=KSKY1P9qLk4&list=PLiD1OrtvRy70RQ8k5HH0E3vHQPpEIJJhZ&index=5)
 - [Těžba kryptoměn (20 minut)](https://www.youtube.com/watch?v=aSlEaZFoJmU&list=PLiD1OrtvRy70RQ8k5HH0E3vHQPpEIJJhZ&index=21)
-‍- [Kdo a jak může měnit Bitcoin? (15 minut)](https://www.youtube.com/watch?v=z7e1Dw-0aEk&list=PLiD1OrtvRy70RQ8k5HH0E3vHQPpEIJJhZ&index=32)
+- [Kdo a jak může měnit Bitcoin? (15 minut)](https://www.youtube.com/watch?v=z7e1Dw-0aEk&list=PLiD1OrtvRy70RQ8k5HH0E3vHQPpEIJJhZ&index=32)
 
 ___
 
@@ -23,12 +23,12 @@ Výše uvedený odkaz je pozvánka. Když se přes ní zaregistrujete a nakoupí
 
 **Pokud neumíte anglicky**, zkuste např. české směnárny [**Simple Coin** *(simplecoin.eu)*](http://simplecoin.eu) nebo [**Anycoin** *(anycoin.cz)*](https://www.anycoin.cz). Nehledejte mezi nimi zásadní rozdíly. Vyberte si tu, která vám osobně přijde sympatičtější.
 
-Nejedná se o reklamu, ale o upřímný názor autora stránek. Jakmile budete Bitcoinu rozumět, nebojte se vyzkoušet i jiné služby, např. burzu Binance.
+Nejedná se o reklamu, ale o upřímný názor autora stránek. Jakmile budete Bitcoinu rozumět, nebojte se vyzkoušet i složitější služby, např. burzy [**Binance** (*binance.com/en/register?ref=I7KS47QB*)](https://www.binance.com/en/register?ref=I7KS47QB) nebo Coinbase PRO (sesterská služba směnárny Coinbase, účet si vytvoříte po registraci na standardním Coinbase).
 
 ___
 
 ## 3. Peněženky
-Vytvořením účtu na burze nebo směnárně jste si v podstatě založili nový „bankovní účet“, na který se vám uloží všechen nakoupený bitcoin. Jenže v této podobě to stále není váš bitcoin. Podobně jako když nakoupíte v eshopu a nevyzvednete si svůj balíček.
+Vytvořením účtu na burze nebo směnárně jste si v podstatě založili „bankovní účet“, na který se vám uloží všechen nakoupený bitcoin. Jenže v této podobě to stále není váš bitcoin. Podobně jako když nakoupíte v eshopu a nevyzvednete si svůj balíček.
 
 Abyste ho reálně vlastnili, potřebujete peněženku, kam ho převedete. Existují dva druhy peněženek. Hardwarové (fyzické zařízení) a softwarové (aplikace ve vašem počítači nebo mobilu).
 
@@ -40,8 +40,8 @@ Při prvním zapnutí peněženky vám peněženka vygeneruje tzv. seed phrase o
 Seed phrase opište ručně na papír a zalaminujte, nebo vyražte razníkem do plechu. Nefoťte ho mobilem, neposílejte e-mailem, netiskněte – jednodušě nikdy neuchovávejte v elektronické podobě.
 
 ### Doporučená videa
-• [Klíče a peněženky (11 minut)](https://www.youtube.com/watch?v=4CqyY53dDJU&list=PLiD1OrtvRy70RQ8k5HH0E3vHQPpEIJJhZ&index=20)
-• [Bezpečná práce s peněženkou (15 minut)](https://www.youtube.com/watch?v=55sn9T7QNbQ&list=PLiD1OrtvRy70RQ8k5HH0E3vHQPpEIJJhZ&index=55)
+- [Klíče a peněženky (11 minut)](https://www.youtube.com/watch?v=4CqyY53dDJU&list=PLiD1OrtvRy70RQ8k5HH0E3vHQPpEIJJhZ&index=20)
+- [Bezpečná práce s peněženkou (15 minut)](https://www.youtube.com/watch?v=55sn9T7QNbQ&list=PLiD1OrtvRy70RQ8k5HH0E3vHQPpEIJJhZ&index=55)
 
 ___
 
@@ -50,7 +50,7 @@ Pokud chcete někomu poslat Bitcoin ze své peněženky, stačí požádat proti
 
 Poplatek, kolik bude transakce stát, závisí na vytíženosti bitcoinové sítě. Může to být tedy 2 koruny, ale taky 200 korun.
 
-Pokud jste se už naučili základy o Bitcoinu a chcete levnější a rychlejší transakce, omrkněte technologii Lightning network.
+Pokud jste se už naučili základy o Bitcoinu a chcete levnější a rychlejší transakce, omrkněte technologii Lightning Network.
 
 ___
 
