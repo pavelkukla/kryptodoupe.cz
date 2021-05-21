@@ -1,3 +1,3 @@
-Bitcoin aspiruje na nejlepšího kandidáta do role „nejzvučnějších“ peněz v historii lidstva. To z něj dělá tržního konkurenta současnému systému pružných, státních peněz (taktéž označované jako „fiat“ peníze).
+Bitcoin je nejlepším konkurentem současného systému státních peněz (taktéž označované jako „fiat“ peníze).
 
-Jde o jediné digitální aktivum, které nelze zfalšovat nebo podvrhnout. Jeho největší hodnota se skrývá v jeho konečném množství. Svět nikdy nespatří víc než 21 milionů jednotek, bitcoinů. Vyřešil tedy, jak perfektně uchovat kupní sílu v čase a odtrhnout se tak od inflačních státních peněz, které tuto kupní sílu naopak ztrácí.
+Jde o jediné digitální aktivum, které nelze zfalšovat nebo podvrhnout. Jeho největší hodnota se skrývá v jeho konečném množství. Svět nikdy nespatří víc než 21 milionů jednotek bitcoinů. Vyřešil tedy, jak uchovat kupní sílu v čase a odtrhnout se tak od inflačních státních peněz, které tuto kupní sílu naopak přirozeně ztrácí.
