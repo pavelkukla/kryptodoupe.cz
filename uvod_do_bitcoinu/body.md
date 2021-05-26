@@ -17,13 +17,14 @@ ___
 ## 2. Nákup
 Bitcoin koupíte na burze nebo ve směnárně. Na burze máte možnost „smlouvat“. Ve směnárně kupujete bitcoin za kurz, který vám směnárna vypíše.
 
-**Pokud umíte anglicky**, tak se obecně doporučuje nakoupit ve směnárně [**Coinbase** *(coinbase.com/join/kukla_g6)*](https://www.coinbase.com/join/kukla_g6), protože má nejpřehlednější stránky.
+
+**Pokud umíte anglicky**, tak se obecně doporučuje nakoupit ve směnárně [**Coinbase** *(pozvánka)*](https://www.coinbase.com/join/kukla_g6), protože má nejpřehlednější stránky.
 
 Výše uvedený odkaz je pozvánka. Když se přes ní zaregistrujete a nakoupíte alespoň za 100 dolarů, dostanete vy i autor těchto stránek bitcoin v hodnotě 10 dolarů zdarma.
 
-**Pokud neumíte anglicky**, zkuste např. české směnárny [**Simple Coin** *(simplecoin.eu)*](http://simplecoin.eu) nebo [**Anycoin** *(anycoin.cz)*](https://www.anycoin.cz). Nehledejte mezi nimi zásadní rozdíly. Vyberte si tu, která vám osobně přijde sympatičtější.
+**Pokud neumíte anglicky**, zkuste např. české směnárny [**Simple Coin**](http://simplecoin.eu) nebo [**Anycoin**](https://www.anycoin.cz). Nehledejte mezi nimi zásadní rozdíly. Vyberte si tu, která vám osobně přijde sympatičtější.
 
-Nejedná se o reklamu, ale o upřímný názor autora stránek. Jakmile budete Bitcoinu rozumět, nebojte se vyzkoušet i složitější služby, např. burzy [**Binance** (*binance.com/en/register?ref=I7KS47QB*)](https://www.binance.com/en/register?ref=I7KS47QB) nebo Coinbase PRO (sesterská služba směnárny Coinbase, účet si vytvoříte po registraci na standardním Coinbase).
+Nejedná se o reklamu, ale o upřímný názor autora stránek. Jakmile budete Bitcoinu rozumět, nebojte se vyzkoušet i složitější služby, např. burzy [**Binance** *(pozvánka)*](https://www.binance.com/en/register?ref=I7KS47QB) nebo Coinbase PRO (sesterská služba směnárny Coinbase, účet si vytvoříte po registraci na standardním Coinbase).
 
 ___
 
@@ -35,7 +36,9 @@ Abyste ho reálně vlastnili, potřebujete peněženku, kam ho převedete. Exist
 S výběrem peněženky a převodem bitcoinu ze směnárny na peněženku vám pomůžou [často kladené otázky](#penezenky-faq).
 
 ### Zabezpečení peněženky
-Při prvním zapnutí peněženky vám peněženka vygeneruje tzv. seed phrase o délce 12 až 24 slov. Seed phrase je unikátní seznam slov, díky kterým můžete obnovit přístup ke ztracené peněžence. **Nikdy nikomu nesdělujte svůj seed**.
+Při prvním zapnutí peněženky vám peněženka vygeneruje tzv. seed phrase o délce 12 až 24 slov. Seed phrase je unikátní seznam slov, díky kterým můžete obnovit přístup ke ztracené peněžence.
+
+> Nikdy nikomu nesdělujte svůj seed. Pokud ho po vás bude někdo vyžadovat, je to podvodník. Seed slouží pouze pro obnovení ztracené peněženky – tehdy ho zadáte do oficiální aplikace Trezoru, [Trezor Suite](https://suite.trezor.io/). Nikdy jindy, jinak přijdete o svoje bitcoiny.
 
 Seed phrase opište ručně na papír a zalaminujte, nebo vyražte razníkem do plechu. Nefoťte ho mobilem, neposílejte e-mailem, netiskněte – jednodušě nikdy neuchovávejte v elektronické podobě.
 
