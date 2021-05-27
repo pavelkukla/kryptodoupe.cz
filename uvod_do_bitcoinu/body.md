@@ -38,7 +38,7 @@ S výběrem peněženky a převodem bitcoinů ze směnárny na peněženku vám 
 ### Zabezpečení peněženky
 Při prvním zapnutí peněženky vám peněženka vygeneruje tzv. seed phrase o délce 12 nebo 24 slov. Seed phrase je seznam slov, díky kterým můžete případně obnovit přístup ke všem svým bitcoinům na peněžence, pokud ji ztratíte nebo zničíte.
 
-> Nikdy nikomu nesdělujte svůj seed. Pokud ho po vás bude někdo vyžadovat, je to podvodník. Seed slouží pouze pro obnovení ztracené peněženky – tehdy ho zadáte do oficiální aplikace Trezoru, [Trezor Suite](https://suite.trezor.io/). Nikdy jindy, jinak přijdete o svoje bitcoiny.
+> **Nikdy nikomu nesdělujte svůj seed**. Pokud ho po vás bude někdo vyžadovat, je to podvodník. Seed slouží pouze pro obnovení ztracené peněženky – tehdy ho zadáte do oficiální aplikace Trezoru, [Trezor Suite](https://suite.trezor.io/). Nikdy jindy, jinak přijdete o své bitcoiny.
 
 Seed phrase opište čitelně, rukou na papír, případně zalaminujte. Pokud hledáte trvalejší řešení, lze jej vyrazit do plechu nebo kovu. Nefoťte ho smartphonem, neposílejte e-mailem, netiskněte – jednoduše jej nikdy neuchovávejte v elektronické podobě.
 
