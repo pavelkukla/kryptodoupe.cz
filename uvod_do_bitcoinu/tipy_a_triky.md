@@ -1,0 +1,3 @@
+## Tipy a triky
+
+- Seed, ani privátní klíče nikam nepíšeme. Seed je vašich 12/24 slov, u toho je to jasné. Z něj se generují privátní klíče a každá adresa má svůj, pomocí kterého utrácíme zůstatek z adresy. I když je to klíč jen k jedné adrese, tak pokud byste někde uveřejnili svůj rozšířený veřejný klíč (xpub, ypub, zpub), je možné prostředky odcizit i z ostatních adres. Většina peněženek vám vaše privátní klíče ani neukáže, což je správně, práve z tohoto důvodu. Operace s privátními klíči nechme na peněžence a nevymýšlejme kličky. Pokud se nebudete snažit obejít např. Trezor Suite nebo Ledger Live, rozhodně vám nehrozí nebezpečí, protože vám vaše privátní klíče ani neukážou.
