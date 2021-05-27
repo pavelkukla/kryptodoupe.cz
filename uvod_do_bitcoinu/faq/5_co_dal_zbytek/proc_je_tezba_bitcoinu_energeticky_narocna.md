@@ -4,4 +4,4 @@ Abychom měli jistotu, že je tento proces nezneužitelný, je zajištěn koncep
 
 Pokud by chtěl někdo podvádět, musel by mít obrovské množství výkonu (množství „počítačů“), kterého není schopen dosáhnout ani žádný stát. To vede všechny k poctivosti.
 
-Pokus o podvod by byl rychle odhalen a náklady na takový pokus by přišel vniveč. Vždy se vyplatí hrát podle pravidel.
+Pokus o podvod by byl rychle odhalen a náklady na takový pokus by přišly vniveč. Vždy se vyplatí hrát podle pravidel.

@@ -20,7 +20,7 @@ Bitcoin, případně jeho částky, satoshi (sat, saty, sats - 100 satoshi je cc
 
 **Pokud umíte anglicky**, tak se obecně doporučuje nakoupit ve směnárně [**Coinbase** *(pozvánka)*](https://www.coinbase.com/join/kukla_g6), protože má nejpřehlednější stránky.
 
-Výše uvedený odkaz je pozvánka. Když se přes ní zaregistrujete a nakoupíte alespoň za 100 dolarů, dostanete vy i autor těchto stránek bitcoin v hodnotě 10 dolarů zdarma.
+Výše uvedený odkaz je pozvánka. Když se přes ní zaregistrujete a nakoupíte alespoň za 100 dolarů, dostanete vy i autor těchto stránek 10 dolarů v bitcoinu zdarma.
 
 **Pokud neumíte anglicky**, zkuste např. české směnárny [**Simple Coin**](http://simplecoin.eu) nebo [**Anycoin**](https://www.anycoin.cz). Nehledejte mezi nimi zásadní rozdíly. Vyberte si tu, která vám osobně přijde sympatičtější.
 

@@ -18,6 +18,6 @@ Máte 1 celý bitcoin (100 000 000 satoši). Chcete prodat pouze 50 % svého bit
 
 Začnete prodávat, jakmile cena za jeden bitcoin bude 50 000 €. Dřív se vám to nevyplatí, protože jste ho koupili např. když byla cena 25 000 € a nechcete riskovat, že se naplní scénář výše.
 
-Přestanete prodávat, jakmile cena za jeden bitcoin bude 500 000 €. Dál už to nejspíš nebude mít smysl, protože Bitcoin bude nejspíš při této ceně sám o sobě tak rozšířený, že by nahradil tradiční měny a vy ho tam můžete použít na klasickou směnu za zboží.
+Přestanete prodávat, jakmile cena za jeden bitcoin bude 500 000 €. Dál už to nejspíš nebude mít smysl, protože Bitcoin bude nejspíš při této ceně sám o sobě tak rozšířený, že by nahradil tradiční měny a vy ho tak můžete použít na klasickou směnu za zboží.
 
 Abyste při této dlouhé cestě fixovali své zisky (pro další investice nebo osobní potěšení), provedete celkově třeba 10 prodejů a při každém z nich prodáte 5 % svých bitcoinů. První prodej provedete na 50 000 €, druhý na 100 000 €, třetí na 150 000 €,… To už záleží na vás.
