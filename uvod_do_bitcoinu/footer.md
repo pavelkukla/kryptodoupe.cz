@@ -11,6 +11,7 @@ Chci přispět: [Bitcoin](https://www.blockchain.com/btc/address/bc1qwysea339u46
 - [Vynález jménem Bitcoin](https://braiins.com/blog/vynalez-jmenem-bitcoin)
 - [Dětská kniha Bitcoinové peníze](https://braiins.com/blog/bitcoinove-penize)
 - [The Bitcoin Whitepaper (český překlad)](https://braiins.com/blog/the-bitcoin-whitepaper-cesky-preklad)
+- [Zdanění kryptoměn](https://www.zdanenikryptomen.cz/zdanenikryptomen.pdf)
 
 # Videa a podcasty
 - [Úvod do Bitcoinu (Bitcoinovej Kanál)](https://www.youtube.com/playlist?list=PLiD1OrtvRy70RQ8k5HH0E3vHQPpEIJJhZ)
