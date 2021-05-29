@@ -1,6 +1,6 @@
 Ne.
 
-Pokud by byl Bitcoin podvod nebo letadlo, musel by z něj nějak mít výhodu jeho tvůrce nebo lidi, co přišli velmi brzy. Principem multi-level marketingu je provize za přivedení dalších lidí.
+Pokud by byl Bitcoin podvod nebo letadlo, musel by z něj nějak mít výhodu jeho tvůrce nebo lidé, kteří přišli velmi brzy. Principem multi-level marketingu je provize za přivedení dalších lidí.
 
 Ani samotný autor Bitcoinu nad ním nemá moc, natož aby z něho nějak profitoval. Kdo přišel v roce 2009 k většímu obnosu bitcoinů je dnes nepochybně za vodou. To z toho stále nedělá podvod. Kdo si nakoupil akcie Apple, Tesly nebo Facebooku taky vydělal spousty peněz – byly to prostě dobré investice, stejně jako Bitcoin.
 

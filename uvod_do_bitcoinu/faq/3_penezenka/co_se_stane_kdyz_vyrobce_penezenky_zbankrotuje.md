@@ -1,6 +1,6 @@
-Prakticky nic.
+Prakticky nic. Např. hlavní hardware peněženky (Trezor, Ledger) nejsou ve své podstatě závislé na infrastruktuře svých výrobců. Můžou s minimem dodatečného úsilí bez problému fungovat i v případě ukončení jejich činnosti. 
 
-Naťukáte si svůj seed do jiné peněženky na trhu. Bitcoin neleží v peněžence, ta k němu drží jen oprávnění k manipulaci (klíč).
+Vždy také můžete kdykoliv obnovit svůj seed do jiné kompatibilní peněženky na trhu. Bitcoin neleží v peněžence, ta k němu drží jen oprávnění k manipulaci (privátní klíč).
 
 Seed (seed phrase) je seznam slov, ze kterých se odvozují tyto klíče, díky němu tak můžete obnovit všechny držené prostředky na peněžence. Pokud používáte účty pod passphrase, tak budete potřebovat i tu. Bez ní se ke svým prostředkům nedostanete ani se seedem.
 
