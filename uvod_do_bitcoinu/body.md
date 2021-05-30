@@ -1,9 +1,14 @@
 ## 1. Úvod
 Bitcoin jsou elektronické peníze, které si můžou uživatelé internetu posílat bez prostředníka, např. banky. Byl navržen tak, aby se nikomu nevyplatilo podvádět. Díky tomu není kontrolovaný žádným jednotlivcem, skupinou ani státem.
 
-Jde o komplexní systém, ale k jeho pochopení stačí jenom zájem a trocha úsilí. Základy Bitcoinu jsou jednoduché na pochopení. Většině lidí stačí vědět, co je to adresa a jak si své bitcoiny chránit. Pochopení Bitcoinu do hloubky vyžaduje i technické znalosti, ale skoro nikdo taky neví, jak funguje internet a používá ho. Bitcoin skvěle vysvětlují české knihy [Vynález jménem Bitcoin *(zdarma)*](https://braiins.com/blog/vynalez-jmenem-bitcoin) nebo [dětská kniha Bitcoinové peníze *(zdarma)*](https://braiins.com/blog/bitcoinove-penize).‍
+Jde o komplexní systém, ale k jeho pochopení stačí jenom zájem a trocha úsilí. Základy Bitcoinu jsou jednoduché na pochopení. Většině lidí stačí vědět, co je to adresa a jak si své bitcoiny chránit.
 
-Nekupujte bitcoin s myšlenkou, že z vás udělá milionáře. Přemýšlejte nad Bitcoinem jako nad dlouhobým spořením, investujte pouze tolik, kolik jste ochotni ztratit a po menších částkách, ideálně pravidelně. Stránky mají pouze vzdělávací charakter – nejedná se o investiční rady.
+Pochopení Bitcoinu do hloubky vyžaduje i technické znalosti, ale skoro nikdo taky neví, jak funguje internet a používá ho.
+
+Bitcoin skvěle vysvětlují české knihy [Vynález jménem Bitcoin *(zdarma)*](https://braiins.com/blog/vynalez-jmenem-bitcoin) nebo [dětská kniha Bitcoinové peníze *(zdarma)*](https://braiins.com/blog/bitcoinove-penize).‍
+Nekupujte bitcoin s myšlenkou, že z vás udělá milionáře. Přemýšlejte nad Bitcoinem jako nad dlouhobým spořením, investujte pouze tolik, kolik jste ochotni ztratit a po menších částkách, ideálně pravidelně.
+
+Stránky mají pouze vzdělávací charakter – nejedná se o investiční rady.
 
 Pokud máte raději videa, podívejte se na [Úvod do Bitcoinu od Bitcoinovýho kanálu](https://www.youtube.com/watch?v=Z92ADb5i42s&list=PLiD1OrtvRy70RQ8k5HH0E3vHQPpEIJJhZ) na YouTube (česky).
 
