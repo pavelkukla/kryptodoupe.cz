@@ -63,8 +63,8 @@ Pokud jste se dostali až sem a přečetli jste si většinu často kladených o
 
 Bitcoin je nikdy nekončící téma a jeho adopce teprve začíná. Pokud se o Bitcoin zajímáte proto, že chcete a ne proto, že musíte, tak ještě není pozdě.
 
-## Přidejte se na Discord 
-Discord je novodobé fórum, komunikační platforma pro komunity. Je alternativou Skypu, TeamSpeaku a ostatních služeb. Bitcoinovej kanál zde má přes 12 tisíc členů. [Přidejte se do největšího československého serveru o kryptoměnách](https://discord.com/invite/cTGFFAGQ9E).
+### Přidejte se na Discord 
+Discord je novodobé fórum, komunikační platforma pro komunity. Je alternativou Skypu, TeamSpeaku a ostatních služeb. Bitcoinovej kanál zde má přes 12 tisíc členů. [Přidejte se na největší československý serveru o kryptoměnách](https://discord.com/invite/cTGFFAGQ9E).
 
-## Máte se na co těšit
-Bitcoinem to nekončí, připravujeme vzdělávací stránku o technologii Lightning Network. Na Discordu se dozvíte jako první, jakmile bude připravená. Kromě toho můžete sledovat historii vývoje i připravovaný obsah na tuto stránku na našem [veřejně přístupném na GitHub repozitáři](https://github.com/pavelkukla/kryptodoupe.cz).
+### Máte se na co těšit
+Bitcoinem to nekončí, připravujeme vzdělávací stránku o technologii Lightning Network. Na Discordu se dozvíte jako první, jakmile bude připravená. Historii vývoje i připravovaný obsah této stránky můžete sledovat na našem [veřejně přístupném na GitHub repozitáři](https://github.com/pavelkukla/kryptodoupe.cz).
