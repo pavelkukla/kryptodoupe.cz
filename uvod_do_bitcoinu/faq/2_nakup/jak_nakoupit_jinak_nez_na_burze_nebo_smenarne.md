@@ -1,3 +1,0 @@
-Bitcoiny lze koupit přímo od konkrétních prověřených osob, které můžete najít například na Facebooku, Telegramu, Signalu, kde jsou k tomuto účelu vytvořeny speciální skupiny - obecně se tomuto říká Kryptoveksl. Ale s tímto typem nákupu buďte opatrní! Vždy si ověřte, s kým jednáte. V podobných skupinách se klidně ptejte, zda je daný člověk důvěryhodný. 
-
-Další, bezpečný, a nejvíc anonymní nákup je za hotovost v tzv. „bitcoinmatu“, což je přístroj podobný klasickému bankomatu, přesněji řečeno „vkladomatu“. Několik se jich nachází i v Česku. Mapu bitcoinmatů najdete na [Coin ATM Radar *(coinatmradar.com)*](https://coinatmradar.com/)

@@ -1,12 +1,13 @@
 ## 1. Úvod
-Bitcoin jsou elektronické peníze, které si můžou uživatelé internetu posílat bez prostředníka, např. banky. Byl navržen tak, aby se nikomu nevyplatilo podvádět. Díky tomu není kontrolovaný žádným jednotlivcem, skupinou ani státem.
+Bitcoin jsou elektronické peníze, které si můžou uživatelé internetu posílat bez prostředníka, např. banky.
+
+Byl navržen tak, aby se nikomu nevyplatilo podvádět. Díky tomu není kontrolovaný žádným jednotlivcem, skupinou ani státem.
 
 Jde o komplexní systém, ale k jeho pochopení stačí jenom zájem a trocha úsilí. Základy Bitcoinu jsou jednoduché na pochopení. Většině lidí stačí vědět, co je to adresa a jak si své bitcoiny chránit.
 
 Pochopení Bitcoinu do hloubky vyžaduje i technické znalosti, ale skoro nikdo taky neví, jak funguje internet a používá ho.
-
-Bitcoin skvěle vysvětlují české knihy [Vynález jménem Bitcoin *(zdarma)*](https://braiins.com/blog/vynalez-jmenem-bitcoin) nebo [dětská kniha Bitcoinové peníze *(zdarma)*](https://braiins.com/blog/bitcoinove-penize).‍
-Nekupujte bitcoin s myšlenkou, že z vás udělá milionáře. Přemýšlejte nad Bitcoinem jako nad dlouhobým spořením, investujte pouze tolik, kolik jste ochotni ztratit a po menších částkách, ideálně pravidelně.
+‍
+> Nekupujte s myšlenkou, že z vás Bitcoin udělá milionáře. Přemýšlejte nad ním jako nad dlouhobým spořením. Investujte pouze tolik, kolik jste ochotni ztratit – cena může dočasně klesnout a prodávali byste v případě „nouze“ pod cenou. To by se vám nevyplatilo.
 
 Stránky mají pouze vzdělávací charakter – nejedná se o investiční rady.
 
@@ -20,31 +21,37 @@ Pokud máte raději videa, podívejte se na [Úvod do Bitcoinu od Bitcoinovýho 
 ___
 
 ## 2. Nákup
-Bitcoin koupíte na burze nebo ve směnárně. Na burze máte možnost „smlouvat“. Ve směnárně kupujete bitcoin za kurz, který vám vypíše směnárna, tak jako když si kupujete třeba eura.
+Bitcoin koupíte na burze nebo ve směnárně. Na burze máte možnost „smlouvat“. Ve směnárně kupujete bitcoin za kurz, který vám vypíše směnárna, tak jako když si kupujete třeba eura při cestě do zahraničí.
 
-> V současné době můžete část bitcoinu nakoupit i za 1 korunu. Bitcoin je dělitelný až na 8 desetinných míst. Jedné stomiliontině bitcoinu (0,00000001 btc) se říká satoshi (satoši, zkráceně sat). 1 bitcoin = 100 milionů satoshi.
+> V současné době můžete část bitcoinu nakoupit i za 1 korunu. Bitcoin je totiž dělitelný až na 8 desetinných míst. Jedné stomiliontině bitcoinu (0,00000001 btc) se říká satoshi (satoši, zkráceně sat). 1 bitcoin = 100 milionů satoshi.
 
 **Pokud umíte anglicky**, tak se obecně doporučuje nakoupit ve směnárně [Coinbase](https://www.coinbase.com) ([pozvánka](https://www.coinbase.com/join/kukla_g6)), protože má nejpřehlednější stránky.
 
 Pokud kliknete na odkaz *pozvánka*, zaregistrujete se přes něj a nakoupíte alespoň za 100 dolarů, dostanete vy i autor stránek 10 dolarů v bitcoinu zdarma.
 
-**Pokud neumíte anglicky**, zkuste např. české směnárny [Bitstock](https://www.bitstock.com/), [Simple Coin](http://simplecoin.eu) nebo [Anycoin](https://www.anycoin.cz). Nehledejte mezi nimi zásadní rozdíly. Vyberte si tu, která vám osobně přijde sympatičtější.
+**Pokud neumíte anglicky**, zkuste české směnárny, např. [Bitstock](https://www.bitstock.com/), [Simple Coin](http://simplecoin.eu) nebo [Anycoin](https://www.anycoin.cz). Nehledejte mezi nimi zásadní rozdíly. Vyberte si tu, která vám osobně přijde sympatičtější.
 
-**Nejedná se o reklamu, ale o upřímný názor autora stránek**. Jakmile budete Bitcoinu rozumět, nebojte se vyzkoušet i složitější služby, např. burzy Coinbase PRO (sesterská služba směnárny Coinbase, účet je společný pro Coinbase i Coinbase PRO) nebo [Binance](https://www.binance.com) ([pozvánka](https://www.binance.com/en/register?ref=I7KS47QB)).
+Další, bezpečný, a nejvíc anonymní nákup je za hotovost v tzv. „bitcoinmatu“, což je přístroj podobný klasickému bankomatu, přesněji řečeno „vkladomatu“. Několik se jich nachází i v Česku. Mapu bitcoinmatů najdete na [Coin ATM Radar](https://coinatmradar.com/).
+
+**Nejedná se o reklamu, ale o upřímný názor autora stránek**. Pokud jste technicky velmi zdatní, zkuste místo Coinbase např. burzu [Binance](https://www.binance.com) ([pozvánka](https://www.binance.com/en/register?ref=I7KS47QB)).
 
 ___
 
 ## 3. Peněženky
 Pokud jste si nechali nakoupený bitcoin uložený na účtu vaší burzy nebo směnárny, tak to stále není váš bitcoin. Podobně jako když nakoupíte v eshopu a nevyzvednete si svůj balíček.
 
-Abyste ho reálně vlastnili, potřebujete peněženku, kam ho převedete. Existují dva druhy peněženek. Hardwarové (fyzické zařízení) a softwarové (aplikace ve vašem počítači nebo smartphonu).
+Abyste ho reálně vlastnili a měli v bezpečí, tak potřebujete „peněženku“, kam ho převedete.
 
-S výběrem správné peněženky vám pomůžou [často kladené otázky](#penezenky-faq).
+Existují dva druhy peněženek. Hardwarové (fyzické zařízení, od 1600 Kč) a softwarové (aplikace ve vašem počítači nebo smartphonu, zdarma). Hardwarová peněženka je bezpečnější než softwarová.
+
+Doporučujeme koupit českou hardwarovou peněženku značky **Trezor**. Pokud je pro vás 10 000 Kč (390 €) hodně peněz a máte v té hodnotě nakoupený bitcoin, měli byste už zvažovat pořízení hardwarové peněženky.
+
+S přesnějším výběrem správné peněženky vám pomůžou [často kladené otázky](#penezenky-faq).
 
 ### Zabezpečení peněženky
 Při prvním zapnutí peněženky vám peněženka vygeneruje tzv. seed phrase o délce 12 nebo 24 slov. Seed phrase je seznam slov, díky kterým můžete případně obnovit přístup ke všem svým bitcoinům na peněžence, pokud ji ztratíte nebo zničíte.
 
-> **Nikdy nikomu nesdělujte svůj seed**, jinak přijdete o své bitcoiny. Pokud ho po vás bude někdo vyžadovat, je to podvodník. Seed slouží pouze pro obnovení ztracené peněženky – tehdy ho zadáte do oficiální aplikace Trezoru, [Trezor Suite](https://suite.trezor.io/).
+> **Nikdy nikomu nesdělujte svůj seed**, jinak přijdete o své bitcoiny. Pokud ho po vás bude někdo vyžadovat, je to podvodník. Seed slouží pouze pro obnovení ztracené peněženky – tehdy ho zadáte do oficiální aplikace Trezoru, [Trezor Suite](https://suite.trezor.io/). Stáhněte si ji do počítače, zadávání seedu do prohlížeče není bezpečné.
 
 Seed phrase opište čitelně, rukou na papír, případně zalaminujte. Pokud hledáte trvalejší řešení, lze jej vyrazit do plechu nebo kovu. Nefoťte ho smartphonem, neposílejte e-mailem, netiskněte – jednoduše jej nikdy neuchovávejte v elektronické podobě.
 
@@ -55,21 +62,27 @@ Seed phrase opište čitelně, rukou na papír, případně zalaminujte. Pokud h
 ___
 
 ## 4. Prodej a převod
-Pokud chcete někomu poslat bitcoiny ze své peněženky, stačí požádat protistranu o adresu. Ideálně v podobě QR kódu (vyfocený nebo jako snímek obrazovky – ale do peněženek jde zadat i ten dlouhý řetězec znaků, QR kód jen usnadňuje manipulaci a využívá fotoaparát), naskenovat, ověřit odesílanou částku, nastavit poplatek a poslat.
+Pokud chcete někomu poslat bitcoiny ze své peněženky, tak podobně jako u tradičního bankovního převodu si buď naskenujete QR kód protistrany nebo zadáte do peněženky ten dlouhý řetězec znaků (adresa), ověříte odesílanou částku, nastavíte výši poplatku a pošlete.
 
-Poplatek, kolik bude transakce stát, závisí na vytíženosti bitcoinové sítě. Mohou to být tedy 2 koruny, ale taky 200 korun.
+Poplatek, kolik bude transakce stát, závisí na vytíženosti bitcoinové sítě. Mohou to být tedy 2 koruny, ale taky 200 korun. Nebojte, vaše peněženka vám s tímhle poradí.
 
-Pokud jste se už naučili základy o Bitcoinu a chcete levnější a rychlejší transakce, podívejte se na technologii Lightning Network (*připravujeme vzdělávací stránku*).
+Pokud jste se už naučili základy o Bitcoinu a chcete levnější a rychlejší transakce, vyhledejte si technologii Lightning Network (*připravujeme vzdělávací stránku*).
 
 ___
 
 ## 5. Co dál?
-Pokud jste se dostali až sem a přečetli jste si většinu často kladených otázek, gratuluju – právě jste se naučili všechno o Bitcoinu. Akorát že vůbec.
+Pokud jste se dostali až sem a přečetli jste si většinu často kladených otázek, gratuluju – právě jste se naučili všechno o Bitcoinu.
 
-Bitcoin je nikdy nekončící téma a jeho adopce teprve začíná. Pokud se o Bitcoin zajímáte proto, že chcete a ne proto, že musíte, tak ještě není pozdě.
+Akorát že vůbec.
+
+Svět kolem nás se mění a ani vývoj Bitcoinu nestojí na místě. Jde o nikdy nekončící téma. Jeho adopce sotva začíná. Pokud se o Bitcoin zajímáte proto, že chcete a ne proto, že musíte, tak vám ještě vlak neujel.
 
 ### Přidejte se na Discord 
-Discord je novodobé fórum, komunikační platforma pro komunity. Je alternativou Skypu, TeamSpeaku a ostatních služeb. Bitcoinovej kanál zde má přes 12 tisíc členů. [Přidejte se na největší československý server o kryptoměnách](https://discord.com/invite/cTGFFAGQ9E).
+Discord je novodobé fórum, komunikační platforma pro komunity. Je alternativou Skypu, TeamSpeaku a ostatních služeb. Discord Bitcoinovýho kanálu má přes 12 tisíc členů. [Přidejte se na největší československý server o kryptoměnách](https://discord.com/invite/cTGFFAGQ9E).
 
 ### Máte se na co těšit
-Bitcoinem to nekončí, připravujeme vzdělávací stránku o technologii Lightning Network. Na Discordu se dozvíte jako první, jakmile bude připravená. Historii vývoje i připravovaný obsah této stránky můžete sledovat na našem [veřejně přístupném na GitHub repozitáři](https://github.com/pavelkukla/kryptodoupe.cz).
+Bitcoinem to nekončí, připravujeme vzdělávací stránku o technologii Lightning Network, díky které je jednodušší, rychlejší a levnější si posílat bitcoiny. Na Discordu se dozvíte jako první, jakmile bude stránka připravená.
+
+Historii vývoje i připravovaný obsah této stránky můžete sledovat na našem [veřejně přístupném na GitHub repozitáři](https://github.com/pavelkukla/kryptodoupe.cz).
+
+**#HODL**
