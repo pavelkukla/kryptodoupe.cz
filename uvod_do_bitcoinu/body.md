@@ -25,7 +25,7 @@ Bitcoin koupíte na burze nebo ve směnárně. Na burze máte možnost „smlouv
 
 > V současné době můžete část bitcoinu nakoupit i za 1 korunu. Bitcoin je totiž dělitelný až na 8 desetinných míst. Jedné stomiliontině bitcoinu (0,00000001 btc) se říká satoshi (satoši, zkráceně sat). 1 bitcoin = 100 milionů satoshi.
 
-**Pokud umíte anglicky**, tak se obecně doporučuje nakoupit ve směnárně [Coinbase](https://www.coinbase.com) ([pozvánka](https://www.coinbase.com/join/kukla_g6)), protože má nejpřehlednější stránky.
+**Pokud umíte anglicky**, tak se obecně doporučuje nakoupit ve směnárně [Coinbase](https://www.coinbase.com) ([pozvánka](https://www.coinbase.com/join/kukla_g6)), protože má nejpřehlednější stránky. **Pokud jste technicky velmi zdatní**, zkuste místo Coinbase např. burzu [Binance](https://www.binance.com) ([pozvánka](https://www.binance.com/en/register?ref=I7KS47QB)).
 
 Pokud kliknete na odkaz *pozvánka*, zaregistrujete se přes něj a nakoupíte alespoň za 100 dolarů, dostanete vy i autor stránek 10 dolarů v bitcoinu zdarma.
 
@@ -33,7 +33,7 @@ Pokud kliknete na odkaz *pozvánka*, zaregistrujete se přes něj a nakoupíte a
 
 Další, bezpečný, a nejvíc anonymní nákup je za hotovost v tzv. „bitcoinmatu“, což je přístroj podobný klasickému bankomatu, přesněji řečeno „vkladomatu“. Několik se jich nachází i v Česku. Mapu bitcoinmatů najdete na [Coin ATM Radar](https://coinatmradar.com/).
 
-**Nejedná se o reklamu, ale o upřímný názor autora stránek**. Pokud jste technicky velmi zdatní, zkuste místo Coinbase např. burzu [Binance](https://www.binance.com) ([pozvánka](https://www.binance.com/en/register?ref=I7KS47QB)).
+Nejedná se o reklamu, ale o upřímný názor autora.
 
 ___
 
@@ -79,11 +79,8 @@ Svět kolem nás se mění a ani vývoj Bitcoinu nestojí na místě. Jde o nikd
 
 Opět je tady podobnost s internetem. Kdo v něm již v jeho počátcích rozpoznal potenciál, učil se to, o čem mnozí ani netušili, že existuje – ten se dostal do výhody. Vytvořil si před ostatními náskok na trhu. I vy teď můžete získat náskok. Nebo čekat, jestli budete donuceni okolnostmi.
 
-### Přidejte se na Discord 
-Discord je novodobé fórum, komunikační platforma pro komunity. Je alternativou Skypu, TeamSpeaku a ostatních služeb. Discord Bitcoinovýho kanálu má přes 12 tisíc členů. [Přidejte se na největší československý server o kryptoměnách](https://discord.com/invite/cTGFFAGQ9E).
-
-### Máte se na co těšit
-Bitcoinem to nekončí, připravujeme vzdělávací stránku o technologii Lightning Network, díky které je jednodušší, rychlejší a levnější si posílat bitcoiny. Na Discordu se dozvíte jako první, jakmile bude stránka připravená.
+### Buďte u toho s námi
+Discord je novodobé fórum, komunikační platforma pro komunity. Je alternativou Skypu, TeamSpeaku a ostatních služeb. Discord Bitcoinovýho kanálu má přes 12 tisíc členů. [Přidejte se na největší československý server](https://discord.com/invite/cTGFFAGQ9E).
 
 Historii vývoje i připravovaný obsah této stránky můžete sledovat na našem [veřejně přístupném na GitHub repozitáři](https://github.com/pavelkukla/kryptodoupe.cz).
 
