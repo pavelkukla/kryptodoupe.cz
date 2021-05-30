@@ -71,7 +71,7 @@ Pokud jste se už naučili základy o Bitcoinu a chcete levnější a rychlejš�
 ___
 
 ## 5. Co dál?
-Pokud jste se dostali až sem a přečetli jste si většinu často kladených otázek, gratuluju – právě jste se naučili všechno o Bitcoinu.
+Pokud jste se dostali až sem a přečetli jste si většinu často kladených otázek, gratulujeme – právě jste se naučili všechno o Bitcoinu.
 
 Akorát že vůbec.
 

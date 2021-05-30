@@ -11,6 +11,6 @@ Bitcoin je často označován za digitální zlato. Můžete tak váhat, zda nen
 - Zlato nemůžete používat pro běžnou platbu. Většinou ho odnesete obchodníkovi, který vám za něj dá peníze v korunách. Bitcoin přijímá postupem času více podniků.
 
 #### Výhody zlata:
-- Rozhodně stabilnější vývoj ceny, tolik nekolísá,
-- výnos ze zlata jako fyzická osoba nemusíte danit,
-- časem ověřený udržitel hodnoty.
+- Rozhodně stabilnější vývoj ceny, tolik nekolísá.
+- Výnos ze zlata jako fyzická osoba nemusíte danit.
+- Je to časem ověřený udržitel hodnoty.
