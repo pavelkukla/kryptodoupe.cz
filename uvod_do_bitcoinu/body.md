@@ -7,7 +7,7 @@ Jde o komplexní systém, ale k jeho pochopení stačí jenom zájem a trocha ú
 
 Pochopení Bitcoinu do hloubky vyžaduje i technické znalosti, ale skoro nikdo taky neví, jak funguje internet a používá ho.
 ‍
-> Nekupujte s myšlenkou, že z vás Bitcoin udělá milionáře. Přemýšlejte nad ním jako nad dlouhobým spořením. Investujte pouze tolik, kolik jste ochotni ztratit – cena může dočasně klesnout a prodávali byste v případě „nouze“ pod cenou. To by se vám nevyplatilo.
+> Nekupujte bitcoin s myšlenkou, že z vás udělá milionáře. Přemýšlejte nad ním jako nad dlouhobým spořením. Investujte pouze tolik, kolik jste ochotni ztratit – cena může dočasně klesnout a prodávali byste v případě „nouze“ pod cenou. To by se vám nevyplatilo.
 
 Stránky mají pouze vzdělávací charakter – nejedná se o investiční rady.
 
@@ -75,7 +75,9 @@ Pokud jste se dostali až sem a přečetli jste si většinu často kladených o
 
 Akorát že vůbec.
 
-Svět kolem nás se mění a ani vývoj Bitcoinu nestojí na místě. Jde o nikdy nekončící téma. Jeho adopce sotva začíná. Pokud se o Bitcoin zajímáte proto, že chcete a ne proto, že musíte, tak vám ještě vlak neujel.
+Svět kolem nás se mění a ani vývoj Bitcoinu nestojí na místě. Jde o nikdy nekončící téma. Jeho adopce sotva začíná.
+
+Opět je tady podobnost s internetem. Kdo v něm již v jeho počátcích rozpoznal potenciál, učil se to, o čem mnozí ani netušili, že existuje – ten se dostal do výhody. Vytvořil si před ostatními náskok na trhu. I vy teď můžete získat náskok. Nebo čekat, jestli budete donuceni okolnostmi.
 
 ### Přidejte se na Discord 
 Discord je novodobé fórum, komunikační platforma pro komunity. Je alternativou Skypu, TeamSpeaku a ostatních služeb. Discord Bitcoinovýho kanálu má přes 12 tisíc členů. [Přidejte se na největší československý server o kryptoměnách](https://discord.com/invite/cTGFFAGQ9E).
