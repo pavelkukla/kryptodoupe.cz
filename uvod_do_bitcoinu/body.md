@@ -82,6 +82,6 @@ Opět je tady podobnost s internetem. Kdo v něm již v jeho počátcích rozpoz
 ### Buďte u toho s námi
 Discord je novodobé fórum, komunikační platforma pro komunity. Je alternativou Skypu, TeamSpeaku a ostatních služeb. Discord Bitcoinovýho kanálu má přes 12 tisíc členů. [Přidejte se na největší československý server](https://discord.com/invite/cTGFFAGQ9E).
 
-Historii vývoje i připravovaný obsah této stránky můžete sledovat na našem [veřejně přístupném na GitHub repozitáři](https://github.com/pavelkukla/kryptodoupe.cz).
+Historii vývoje i připravovaný obsah této stránky můžete sledovat na našem [veřejně přístupném GitHub repozitáři](https://github.com/pavelkukla/kryptodoupe.cz).
 
 **#HODL**
