@@ -6,7 +6,7 @@ Peníze by měly zastávat roli udržitele hodnoty (mohu si v nich držet hodnot
 
 Udržitel hodnoty je nejdůležitější a základní vlastnost peněz. Pokud chci spořit a zachovat tak kupní sílu buď pro sebe nebo např. pro své děti, musím spořit v něčem, co vydrží. Spořit v chlebu nebude dobré řešení, druhý den už bývá tvrdý a k ničemu nejde využít. Bitcoin tuhle funkci plní, i když jeho cena ráda kolísá – postupem času, čím je cena bitcoinu vyšší, se jeho volatilita (výkyv cen) snižuje.
 
-Prostředkem směny už se Bitcoin také stává . Stále se rozrůstá komunita lidí, kteří si nechají v bitcoinech platit za své služby. Můžu tak dneska zaplatit na spoustě míst na internetu, ale i v kamenných obchodech. Je pravda, že geograficky ještě není obecně přijímaným platidlem, ale u nás taky nezaplatíte polskými złotými.
+Prostředkem směny už se Bitcoin také stává. Stále se rozrůstá komunita lidí, kteří si nechají v bitcoinech platit za své služby. Můžu tak dneska zaplatit na spoustě míst na internetu, ale i v kamenných obchodech. Je pravda, že geograficky ještě není obecně přijímaným platidlem, ale u nás taky nezaplatíte polskými złotými.
 
 Doufáme, že se Bitcoin stane i účetní jednotkou. Pokud budou splněné dva výše zmíněné body, je jen otázkou času, kdy si např. zafixujeme, že za 1 bitcoin si pořídím pozemek se zahradou nebo že 10 000 satoshi (0,0001 bitcoinu) nás bude stát taxi po městě.
 

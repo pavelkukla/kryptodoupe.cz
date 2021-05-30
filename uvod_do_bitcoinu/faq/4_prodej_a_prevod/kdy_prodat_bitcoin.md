@@ -7,7 +7,7 @@ Najít správnou chvíli pro prodej je psychicky náročné. Realita je taková,
 #### Nejčastější scénář u nováčků
 Cena za 1 bitcoin je např. 50 000 €. Rozhodnete se prodat všechny své bitcoiny (nebo satoši = zlomek bitcoinu; 1 bitcoin = 100 000 000 satoši). Cena mezitím vyšplhá až na 60 000 €, ale vám to může být jedno, protože už žádné bitcoiny dávno nemáte.
 
-Zmocní se vás strach, že přijdete o potenciální zisky (tzv. FOMO – „Fear Of Missing Out“, česky „strach ze ušlé příležitosti“.) Koupíte zpátky dříve prodané bitcoiny na 60 000 € a cena mezitím spadne zpátky na 50 000 €. Pokud byste se znovu rozhodli prodat, tak jste výrazně prodělali.
+Zmocní se vás strach, že přijdete o potenciální zisky (tzv. FOMO – „Fear Of Missing Out“, česky „strach z ušlé příležitosti“.) Koupíte zpátky dříve prodané bitcoiny na 60 000 € a cena mezitím spadne zpátky na 50 000 €. Pokud byste se znovu rozhodli prodat, tak jste výrazně prodělali.
 
 Tímhle si prošla naprostá většina lidí. Aktivně obchodovat s bitcoiny se nevyplatí.
 
