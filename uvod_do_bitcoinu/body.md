@@ -25,9 +25,9 @@ Bitcoin koupíte na burze nebo ve směnárně. Na burze máte možnost „smlouv
 
 > V současné době můžete část bitcoinu nakoupit i za 1 korunu. Bitcoin je totiž dělitelný až na 8 desetinných míst. Jedné stomiliontině bitcoinu (0,00000001 btc) se říká satoshi (satoši, zkráceně sat). 1 bitcoin = 100 milionů satoshi.
 
-**Pokud umíte anglicky**, tak se obecně doporučuje nakoupit ve směnárně [Coinbase](https://www.coinbase.com) ([pozvánka](https://www.coinbase.com/join/kukla_g6)), protože má nejpřehlednější stránky. **Pokud jste technicky velmi zdatní**, zkuste místo Coinbase např. burzu [Binance](https://www.binance.com) ([pozvánka](https://www.binance.com/en/register?ref=I7KS47QB)).
+**Pokud umíte anglicky**, tak se obecně doporučuje nakoupit ve směnárně [Coinbase](https://www.coinbase.com) ([pozvánka](https://www.coinbase.com/join/kukla_g6)), protože má nejpřehlednější stránky. *okud jste technicky velmi zdatní, zkuste místo Coinbase např. burzu [Binance](https://www.binance.com) ([pozvánka](https://www.binance.com/en/register?ref=I7KS47QB)).
 
-Pokud kliknete na odkaz *pozvánka*, zaregistrujete se přes něj a nakoupíte alespoň za 100 dolarů, dostanete vy i autor stránek 10 dolarů v bitcoinu zdarma.
+*Pokud kliknete u Coinbase na odkaz pozvánka, zaregistrujete se přes něj a nakoupíte alespoň za 100 dolarů, dostanete 10 dolarů v bitcoinu zdarma. U Binance budete mít slevu na nákup. Je to čistě dobrovolné, pokud chcete ušetřit a podpořit provoz stránek. Doporučené by tyto služby byly i bez pozvánek.*
 
 **Pokud neumíte anglicky**, zkuste české směnárny, např. [Bitstock](https://www.bitstock.com/), [Simple Coin](http://simplecoin.eu) nebo [Anycoin](https://www.anycoin.cz). Nehledejte mezi nimi zásadní rozdíly. Vyberte si tu, která vám osobně přijde sympatičtější.
 
