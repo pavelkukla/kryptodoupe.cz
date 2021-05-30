@@ -1,6 +1,6 @@
 Cena čehokoliv stoupá nebo klesá v závislosti na tom, jestli je po daném statku poptávka. Urodilo se méně brambor? Cena půjde nahoru. Je letos moc cibule? Prodejci si za ni budou účtovat daleko méně, než loni.
 
-U Bitcoinu pozorujeme přesně tohle – někdy se o něj zajímá hodně lidí (cena stoupá), jindy po něm neštěkne pes (cena jde dolů). Čím menší trh, tím vyšší výkyvy.
+U Bitcoinu pozorujeme přesně tohle – někdy se o něj zajímá hodně lidí (cena stoupá), jindy po něm pes neštěkne (cena jde dolů). Čím menší trh, tím vyšší výkyvy.
 
 Když porovnáme třeba Bitcoin a americký dolar, tak v Bitcoinu je aktuálně cca 1 mld. amerických dolarů, ale USD je aktuálně v oběhu 19 924 mld. (19,9 trilionů, M2 supply). Je tedy obtížné pohnout s cenou tak velkého trhu. U Bitcoinu to tak těžké není a stačí, abyste měli „pár milionů dolarů“, a už může cena o nějaké to procento poskočit. Tím, jak se zvětšuje tržní kapitalizace Bitcoinu, klesá zároveň i celková volatilita trhu (v procentech).
 

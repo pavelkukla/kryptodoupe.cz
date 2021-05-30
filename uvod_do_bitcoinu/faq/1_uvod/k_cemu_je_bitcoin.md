@@ -1,3 +1,3 @@
 Bitcoin je nejlepším konkurentem současného systému státních peněz (taktéž označované jako „fiat“ peníze).
 
-Jde o jediné digitální aktivum, které nelze zfalšovat nebo podvrhnout. Jeho největší hodnota se skrývá v jeho konečném množství. Svět nikdy nespatří víc než 21 milionů jednotek bitcoinů. Vyřešil tedy, jak uchovat kupní sílu v čase a odtrhnout se tak od inflačních státních peněz, které tuto kupní sílu naopak přirozeně ztrácí.
+Jde o jediné peníze, které nelze zfalšovat nebo podvrhnout. Jeho největší hodnota se skrývá v jeho konečném množství. Svět nikdy nespatří víc než 21 milionů jednotek bitcoinů. Vyřešil tedy, jak uchovat kupní sílu v čase a odtrhnout se tak od inflačních státních peněz, které tuto kupní sílu naopak přirozeně ztrácí.
