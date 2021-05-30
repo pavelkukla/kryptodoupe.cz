@@ -1,4 +1,6 @@
-Prakticky nic. Např. hlavní hardware peněženky (Trezor, Ledger) nejsou ve své podstatě závislé na infrastruktuře svých výrobců. Můžou s minimem dodatečného úsilí bez problému fungovat i v případě ukončení jejich činnosti. 
+Prakticky nic.
+
+Např. nejrozšířenější hardware peněženky (Trezor, Ledger) nejsou závislé na infrastruktuře svých výrobců. Můžou s minimem úsilí bez problému fungovat i v případě ukončení, že výrobce ukončí jejich podporu.
 
 Vždy také můžete kdykoliv obnovit svůj seed do jiné kompatibilní peněženky na trhu. Bitcoin neleží v peněžence, ta k němu drží jen oprávnění k manipulaci (privátní klíč).
 
