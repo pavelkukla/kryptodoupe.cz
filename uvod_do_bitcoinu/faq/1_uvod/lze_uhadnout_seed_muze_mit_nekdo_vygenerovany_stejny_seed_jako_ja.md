@@ -12,4 +12,4 @@ Pravidla:
 - negenerujte si seed manuálně, tzn. žádné brainwallet, ručně poskládaná slova apod. Tohle napadlo už i útočníky a mají běžné fráze předgenerované a jen koukají, kdy si tam někdo pošle bitcoiny, aby si je mohli převést k sobě.
 - vždy si nechte vygenerovat seed náhodně, nejlépe v Trezoru (nebo Ledgeru). Ale i softwarové peněženky generují dostatečně bezpečné fráze.
 - rozhodně si negenerujte seed v žádné online aplikaci nebo webovém prostředí. Dokonce bych nedoporučoval vytvářet peněženku ani na počítači, opravdu si radši pořiďte HW peněženku nebo alespoň mobilní aplikaci.
-- seed nikam nefotit, nepsát do počítače, neukádat na cloud. Seed patří na papír (kov, plech apod.). Tužku a papír ještě nikdo nehacknul.
+- seed nikam nefotit, nepsat do počítače, neukládat na cloud. Seed patří na papír (kov, plech apod.). Tužku a papír ještě nikdo nehacknul.
