@@ -1,4 +1,4 @@
-Držení bitcoinů na **vlastní** peněžence je bezplatné. V takovém případě ani nehrozí, že by někdo mohl uvalit záporný úrok na vaše přostředky.
+Držení bitcoinů na **vlastní** peněžence je bezplatné. V takovém případě ani nehrozí, že by někdo mohl uvalit záporný úrok na vaše prostředky.
 
 Peněženka je již zažitý, ale zavádějící název pro zařízení nebo aplikaci, která ukládá vaše **přístupové údaje** k bitcoinům. Samotné bitcoiny jsou uložené na blockchainu.
 
