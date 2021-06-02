@@ -1,5 +1,5 @@
 ## 1. Úvod
-Bitcoin jsou elektronické peníze, které si můžou uživatelé internetu posílat bez prostředníků, např. bank.
+Bitcoin jsou elektronické peníze, které si můžou uživatelé internetu posílat bez prostředníka, např. banky.
 
 Byl navržen tak, aby se nikomu nevyplatilo podvádět. Díky tomu není kontrolovaný žádným jednotlivcem, skupinou ani státem.
 
