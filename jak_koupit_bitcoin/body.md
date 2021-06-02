@@ -7,7 +7,7 @@ Jde o komplexní systém, ale k jeho pochopení stačí jenom zájem a trocha ú
 
 Pochopení Bitcoinu do hloubky vyžaduje i technické znalosti, ale skoro nikdo taky neví, jak funguje internet a používá ho.
 ‍
-> Nekupujte bitcoin s myšlenkou, že z vás udělá milionáře. Přemýšlejte nad ním jako nad dlouhobým spořením. Investujte pouze tolik, kolik jste ochotni ztratit – cena může dočasně klesnout a prodávali byste v případě „nouze“ pod cenou. To by se vám nevyplatilo.
+> Nekupujte bitcoiny s myšlenkou, že z vás udělá milionáře. Přemýšlejte nad ním jako nad dlouhobým spořením. Investujte pouze tolik, kolik jste ochotni ztratit – cena může dočasně klesnout a prodávali byste v případě „nouze“ pod cenou. To by se vám nevyplatilo.
 
 Stránky mají pouze vzdělávací charakter – nejedná se o investiční rady.
 
@@ -21,13 +21,13 @@ Pokud máte raději videa, podívejte se na [Úvod do Bitcoinu od Bitcoinovýho 
 ___
 
 ## 2. Nákup
-Bitcoin koupíte na burze nebo ve směnárně. Na burze máte možnost „smlouvat“. Ve směnárně kupujete bitcoin za kurz, který vám vypíše směnárna, tak jako když si kupujete třeba eura při cestě do zahraničí.
+Bitcoiny koupíte na burze nebo ve směnárně. Na burze máte možnost „smlouvat“. Ve směnárně kupujete bitcoiny za kurz, který vám vypíše směnárna, tak jako když si kupujete třeba eura při cestě do zahraničí.
 
 > V současné době můžete část bitcoinu nakoupit i za 1 korunu. Bitcoin je totiž dělitelný až na 8 desetinných míst. Jedné stomiliontině bitcoinu (0,00000001 btc) se říká satoshi (satoši, zkráceně sat). 1 bitcoin = 100 milionů satoshi.
 
 **Pokud umíte anglicky**, tak se obecně doporučuje nakoupit ve směnárně [Coinbase](https://www.coinbase.com) ([pozvánka](https://www.coinbase.com/join/kukla_g6)), protože má nejpřehlednější stránky. *okud jste technicky velmi zdatní, zkuste místo Coinbase např. burzu [Binance](https://www.binance.com) ([pozvánka](https://www.binance.com/en/register?ref=I7KS47QB)).
 
-*Pokud kliknete u Coinbase na odkaz pozvánka, zaregistrujete se přes něj a nakoupíte alespoň za 100 dolarů, dostanete 10 dolarů v bitcoinu zdarma. U Binance budete mít slevu na nákup. Je to čistě dobrovolné, pokud chcete ušetřit a podpořit provoz stránek. Doporučené by tyto služby byly i bez pozvánek.*
+*Pokud kliknete u Coinbase na odkaz pozvánka, zaregistrujete se přes něj a nakoupíte alespoň za 100 dolarů, dostanete 10 dolarů v bitcoinech zdarma. U Binance budete mít slevu na nákup. Je to čistě dobrovolné, pokud chcete ušetřit a podpořit provoz stránek. Doporučené by tyto služby byly i bez pozvánek.*
 
 **Pokud neumíte anglicky**, zkuste české směnárny, např. [Bitstock](https://www.bitstock.com/), [Simple Coin](http://simplecoin.eu) nebo [Anycoin](https://www.anycoin.cz). Nehledejte mezi nimi zásadní rozdíly. Vyberte si tu, která vám osobně přijde sympatičtější.
 
@@ -38,13 +38,13 @@ Nejedná se o reklamu, ale o upřímný názor autora.
 ___
 
 ## 3. Peněženky
-Pokud jste si nechali nakoupený bitcoin uložený na účtu vaší burzy nebo směnárny, tak to stále není váš bitcoin. Podobně jako když nakoupíte v eshopu a nevyzvednete si svůj balíček.
+Pokud jste si nechali nakoupené bitcoiny uložené na účtu vaší burzy nebo směnárny, tak to stále ještě nejsou váš bitcoiny. Podobně jako když nakoupíte v eshopu a nevyzvednete si svůj balíček.
 
 Abyste ho reálně vlastnili a měli v bezpečí, tak potřebujete „peněženku“, kam ho převedete.
 
 Existují dva druhy peněženek. Hardwarové (fyzické zařízení, od 1600 Kč) a softwarové (aplikace ve vašem počítači nebo smartphonu, zdarma). Hardwarová peněženka je bezpečnější než softwarová.
 
-Doporučujeme koupit českou hardwarovou peněženku značky **Trezor**. Pokud je pro vás 10 000 Kč (390 €) hodně peněz a máte v té hodnotě nakoupený bitcoin, měli byste už zvažovat pořízení hardwarové peněženky.
+Doporučujeme koupit českou hardwarovou peněženku značky **Trezor**. Pokud je pro vás 10 000 Kč (390 €) hodně peněz a máte v té hodnotě nakoupené bitcoiny, měli byste už zvažovat pořízení hardwarové peněženky.
 
 S přesnějším výběrem správné peněženky vám pomůžou [často kladené otázky](#penezenky-faq).
 

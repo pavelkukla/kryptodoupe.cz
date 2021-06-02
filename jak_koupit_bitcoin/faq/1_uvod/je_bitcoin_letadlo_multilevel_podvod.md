@@ -2,7 +2,7 @@ Ne.
 
 Pokud by byl Bitcoin podvod nebo letadlo, musel by z něj nějak mít výhodu jeho tvůrce nebo lidé, kteří přišli velmi brzy. Principem multi-level marketingu je provize za přivedení dalších lidí.
 
-Ani samotný autor Bitcoinu nad ním nemá moc, natož aby z něho nějak profitoval. Kdo přišel v roce 2009 k většímu obnosu bitcoinů je dnes nepochybně za vodou. To z toho stále nedělá podvod. Kdo si nakoupil akcie Apple, Tesly nebo Facebooku taky vydělal spousty peněz – byly to prostě dobré investice, stejně jako Bitcoin.
+Ani samotný autor Bitcoinu nad ním nemá moc, natož aby z něho nějak profitoval. Kdo přišel v roce 2009 k většímu obnosu bitcoinů je dnes nepochybně za vodou. To z toho stále nedělá podvod. Kdo si nakoupil akcie Apple, Tesly nebo Facebooku taky vydělal spousty peněz – byly to prostě dobré investice, stejně jako bitcoiny.
 
 #### 1. Bitcoin neslibuje astronomické zisky
 Bitcoin nikde neslibuje žádné zhodnocení, ani zbohatnutí přes noc. Jako první se na jeho webu dozvíte, že je to inovativní síť a nový druh peněz. Jde o elektronické peníze, které si můžou uživatelé internetu posílat bez prostředníka, např. banky. O jeho hodnotě rozhodl pouze trh. Více se můžete dočíst na [bitcoin.org](https://bitcoin.org).
