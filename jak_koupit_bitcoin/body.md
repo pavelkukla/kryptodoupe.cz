@@ -38,7 +38,7 @@ Nejedná se o reklamu, ale o upřímný názor autora.
 ___
 
 ## 3. Peněženky
-Pokud jste si nechali nakoupené bitcoiny uložené na účtu vaší burzy nebo směnárny, tak to stále ještě nejsou váš bitcoiny. Podobně jako když nakoupíte v eshopu a nevyzvednete si svůj balíček.
+Pokud jste si nechali nakoupené bitcoiny uložené na účtu vaší burzy nebo směnárny, tak to ještě stále nejsou vaše bitcoiny. Podobně jako když nakoupíte v eshopu a nevyzvednete si svůj balíček.
 
 Abyste ho reálně vlastnili a měli v bezpečí, tak potřebujete „peněženku“, kam ho převedete.
 
