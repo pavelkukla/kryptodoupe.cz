@@ -14,9 +14,9 @@ Tímhle si prošla naprostá většina lidí. Aktivně obchodovat s bitcoiny se 
 Pokud opravdu chcete něco odprodat a zafixovat si zisk, určete si dlouhodobý cíl, tzv. exit strategii.
 
 #### Příklad exit strategie
-Máte 1 celý bitcoin (100 000 000 satoši). Chcete prodat pouze 50 % svého bitcoinu (0,5 bitcoinu nebo 50 000 000 satoši), protože věříte, že je Bitcoin budoucnost a nechcete se ho úplně zbavit.
+Máte 1 celý bitcoin (100 000 000 satoši). Chcete prodat pouze 50 % svých bitcoinů (0,5 bitcoinu nebo 50 000 000 satoši), protože věříte, že je Bitcoin budoucnost a nechcete se ho úplně zbavit.
 
-Začnete prodávat, jakmile cena za jeden bitcoin bude 50 000 €. Dřív se vám to nevyplatí, protože jste ho koupili např. když byla cena 25 000 € a nechcete riskovat, že se naplní scénář výše.
+Začnete prodávat, jakmile za jeden bitcoin bude 50 000 €. Dřív se vám to nevyplatí, protože jste ho koupili např. když byla cena 25 000 € a nechcete riskovat, že se naplní scénář výše.
 
 Přestanete prodávat, jakmile cena za jeden bitcoin bude 500 000 €. Dál už to nejspíš nebude mít smysl, protože Bitcoin bude nejspíš při této ceně sám o sobě tak rozšířený, že by nahradil tradiční měny a vy ho tak můžete použít na klasickou směnu za zboží.
 
