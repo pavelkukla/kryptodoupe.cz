@@ -7,7 +7,7 @@ Jde o komplexní systém, ale k jeho pochopení stačí jenom zájem a trocha ú
 
 Pochopení Bitcoinu do hloubky vyžaduje i technické znalosti, ale skoro nikdo taky neví, jak funguje internet a používá ho.
 ‍
-> Nekupujte bitcoin s myšlenkou, že z vás udělá milionáře. Přemýšlejte nad ním jako nad dlouhobým spořením. Investujte pouze tolik, kolik jste ochotni ztratit – cena může dočasně klesnout a prodávali byste v případě „nouze“ pod cenou. To by se vám nevyplatilo.
+> Nekupujte bitcoin s myšlenkou, že z vás udělá milionáře. Přemýšlejte nad ním jako nad dlouhodobým spořením. Investujte pouze tolik, kolik jste ochotni ztratit – cena může dočasně klesnout a prodávali byste v případě „nouze“ pod cenou. To by se vám nevyplatilo.
 
 Stránky mají pouze vzdělávací charakter – nejedná se o investiční rady.
 
