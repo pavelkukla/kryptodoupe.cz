@@ -11,7 +11,7 @@ Pochopení Bitcoinu do hloubky vyžaduje i technické znalosti, ale skoro nikdo 
 
 Stránky mají pouze vzdělávací charakter – nejedná se o investiční rady.
 
-Pokud máte raději videa, podívejte se na [Úvod do Bitcoinu od Bitcoinovýho kanálu](https://www.youtube.com/watch?v=Z92ADb5i42s&list=PLiD1OrtvRy70RQ8k5HH0E3vHQPpEIJJhZ) na YouTube (česky).
+Máte-li raději videa, podívejte se na [Úvod do Bitcoinu od Bitcoinovýho kanálu](https://www.youtube.com/watch?v=Z92ADb5i42s&list=PLiD1OrtvRy70RQ8k5HH0E3vHQPpEIJJhZ) na YouTube (česky).
 
 ### Doporučená videa
 - [Co je Bitcoin a blockchain? (19 minut)](https://www.youtube.com/watch?v=KSKY1P9qLk4&list=PLiD1OrtvRy70RQ8k5HH0E3vHQPpEIJJhZ&index=5)
@@ -25,11 +25,11 @@ Bitcoiny koupíte na burze nebo ve směnárně. Na burze máte možnost „smlou
 
 > V současné době můžete část bitcoinu nakoupit i za 1 korunu. Bitcoin je totiž dělitelný až na 8 desetinných míst. Jedné stomiliontině bitcoinu (0,00000001 btc) se říká satoshi (satoši, zkráceně sat). 1 bitcoin = 100 milionů satoshi.
 
-**Pokud umíte anglicky**, tak se obecně doporučuje nakoupit ve směnárně [Coinbase](https://www.coinbase.com) ([pozvánka](https://www.coinbase.com/join/kukla_g6)), protože má nejpřehlednější stránky. *okud jste technicky velmi zdatní, zkuste místo Coinbase např. burzu [Binance](https://www.binance.com) ([pozvánka](https://www.binance.com/en/register?ref=I7KS47QB)).
+**Pokud umíte anglicky**, tak se obecně doporučuje nakoupit ve směnárně [Coinbase](https://www.coinbase.com) ([pozvánka](https://www.coinbase.com/join/kukla_g6)), protože má nejpřehlednější stránky. Jestli jste technicky zdatnější, zkuste místo Coinbase např. burzu [Binance](https://www.binance.com) ([pozvánka](https://www.binance.com/en/register?ref=I7KS47QB)).
 
-*Pokud kliknete u Coinbase na odkaz pozvánka, zaregistrujete se přes něj a nakoupíte alespoň za 100 dolarů, dostanete 10 dolarů v bitcoinech zdarma. U Binance budete mít slevu na nákup. Je to čistě dobrovolné, pokud chcete ušetřit a podpořit provoz stránek. Doporučené by tyto služby byly i bez pozvánek.*
+*Kliknutím na odkaz "pozvánka" u Coinbase, zaregistrováním se přes něj a nákupem alespoň za 100 dolarů, dostanete 10 dolarů v bitcoinech zdarma. U Binance budete mít slevu na nákup. Je to čistě dobrovolné. Budeme ale rádi, když tuto možnost využijete. Podpoříte tím tak provoz těchto stránek. Nejedná se o reklamu, doporučené by tyto služby byly i bez pozvánek.*
 
-**Pokud neumíte anglicky**, zkuste české směnárny, např. [Bitstock](https://www.bitstock.com/), [Simple Coin](http://simplecoin.eu) nebo [Anycoin](https://www.anycoin.cz). Nehledejte mezi nimi zásadní rozdíly. Vyberte si tu, která vám osobně přijde sympatičtější.
+**V případě, že vám angličtina problémy dělá**, zkuste české směnárny, např. [Bitstock](https://www.bitstock.com/), [Simple Coin](http://simplecoin.eu) nebo [Anycoin](https://www.anycoin.cz). Nehledejte mezi nimi zásadní rozdíly. Vyberte si tu, která vám osobně přijde sympatičtější.
 
 Další, bezpečný, a nejvíc anonymní nákup je za hotovost v tzv. „bitcoinmatu“, což je přístroj podobný klasickému bankomatu, přesněji řečeno „vkladomatu“. Několik se jich nachází i v Česku. Mapu bitcoinmatů najdete na [Coin ATM Radar](https://coinatmradar.com/).
 
@@ -62,7 +62,7 @@ Seed phrase opište čitelně, rukou na papír, případně zalaminujte. Pokud h
 ___
 
 ## 4. Prodej a převod
-Pokud chcete někomu poslat bitcoiny ze své peněženky, tak podobně jako u tradičního bankovního převodu si buď naskenujete QR kód protistrany nebo zadáte do peněženky ten dlouhý řetězec znaků (adresa), ověříte odesílanou částku, nastavíte výši poplatku a pošlete.
+Chcete-li někomu poslat bitcoiny ze své peněženky, tak podobně jako u tradičního bankovního převodu si buď naskenujete QR kód protistrany nebo zadáte do peněženky ten dlouhý řetězec znaků (adresa), ověříte odesílanou částku, nastavíte výši poplatku a pošlete.
 
 Poplatek, kolik bude transakce stát, závisí na vytíženosti bitcoinové sítě. Mohou to být tedy 2 koruny, ale taky 200 korun. Nebojte, vaše peněženka vám s tímhle poradí.
 
