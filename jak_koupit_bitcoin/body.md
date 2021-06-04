@@ -80,7 +80,7 @@ Svět kolem nás se mění a ani vývoj Bitcoinu nestojí na místě. Jde o nikd
 Opět je tady podobnost s internetem. Kdo v něm již v jeho počátcích rozpoznal potenciál, učil se to, o čem mnozí ani netušili, že existuje – ten se dostal do výhody. Vytvořil si před ostatními náskok na trhu. I vy teď můžete získat náskok. Nebo čekat, jestli budete donuceni okolnostmi.
 
 ### Buďte u toho s námi
-> Pomohli vám stránky? Nebo vám tady něco chybí? Prosím, [ozvěte se na e-mail](mailto:pavelkukla@gmail.com) nebo [Discord](https://discord.com/invite/cTGFFAGQ9E). Zpětná vazba je vždy vítána a obsah budeme udržovat aktuální.
+> Pomohly vám stránky? Nebo vám tady něco chybí? Prosím, [ozvěte se na e-mail](mailto:pavelkukla@gmail.com) nebo [Discord](https://discord.com/invite/cTGFFAGQ9E). Zpětná vazba je vždy vítána a obsah budeme udržovat aktuální.
 
 Discord je novodobé fórum, komunikační platforma pro komunity. Je alternativou Skypu, TeamSpeaku a ostatních služeb. Discord Bitcoinovýho kanálu má přes 12 tisíc členů. [Přidejte se na největší československý server](https://discord.com/invite/cTGFFAGQ9E).
 
