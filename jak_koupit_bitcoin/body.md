@@ -33,8 +33,6 @@ Bitcoiny koupíte na burze nebo ve směnárně. Na burze máte možnost „smlou
 
 Další, bezpečný, a nejvíc anonymní nákup je za hotovost v tzv. „bitcoinmatu“, což je přístroj podobný klasickému bankomatu, přesněji řečeno „vkladomatu“. Několik se jich nachází i v Česku. Mapu bitcoinmatů najdete na [Coin ATM Radar](https://coinatmradar.com/).
 
-Nejedná se o reklamu, ale o upřímný názor autora.
-
 ___
 
 ## 3. Peněženky
