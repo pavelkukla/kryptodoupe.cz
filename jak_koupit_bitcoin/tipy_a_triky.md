@@ -24,3 +24,6 @@
 8. Instalujte opatrně, ověřujte
 
    Always exercise great care when installing software on any device. There are many fake cryptocurrency wallets that will not only steal your money but might also compromise all other applications on your device.
+9. odhalení pubkey (mimo hashe pub key)
+
+   když něco z té adresy jednou odešlete, tak tím odhalíte veřejný klíč (do té doby byl znám pouze hash toho veřejného klíče). Takže je teoreticky o jeden krok snaží dostat se k privátnímu klíči (což je ovšem i tak takřka nemožné).
