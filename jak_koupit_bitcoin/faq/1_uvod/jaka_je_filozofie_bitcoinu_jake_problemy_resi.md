@@ -1,6 +1,6 @@
 Abychom pochopili řešení (Bitcoin), musíme nejdřív znát problém (dnešní peníze).
 
-Dnešní peníze mají několik nevýhod. Inflace, nemožnost poslat někomu platbu bez prostředníka, riziko, že stát se rozhodne udělat měnovou reformu, a připravil vás tak o prostředky, nebo zadržení peněz bankou… To všechno jsou rizika, která neseme, když se spoléháme na stát. Neznamená to nutně, že jsou k ničemu, ale jisté skupině začaly tyto vlastnosti peněz vadit a tak si vymysleli takové, které považují za lepší.
+Dnešní peníze mají několik nevýhod. Inflace, nemožnost poslat někomu platbu bez prostředníka, riziko, že stát se rozhodne udělat měnovou reformu, a připravit vás tak o prostředky, nebo zadržení peněz bankou… To všechno jsou rizika, která neseme, když se spoléháme na stát. Neznamená to nutně, že jsou k ničemu, ale jisté skupině začaly tyto vlastnosti peněz vadit a tak si vymysleli takové, které považují za lepší.
 
 Peníze by měli zastávat roli udržitele hodnoty (mohu si v nich držet hodnotu třeba i několik let), prostředku směny (mohu nimi zaplatit na místech, která jsou pro mě důležitá) a ideálně i účetní jednotky (přirozeně víme, že 20 korun mi na kopeček zmrzliny stačí, i když se to postupem času mění – inflace).
 
